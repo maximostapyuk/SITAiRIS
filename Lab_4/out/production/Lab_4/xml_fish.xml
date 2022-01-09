@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<class>
+    <name>Fish</name>
+    <forms>
+        <form kind="Хищные">
+            <fishes>
+                <fish name="Щука" habitat="Проточная вода" />
+                <fish name="Судак" habitat="Реки с заметным течением" />
+                <fish name="Сом" habitat="Илистое дно рек и озер" />
+            </fishes>
+        </form>
+        <form  kind="Травоядные">
+            <fishes>
+                <fish name="Плотва" habitat="Встречается во всех водоемах" />
+                <fish name="Карась" habitat="Илистое дно водоемов без течения" />
+                <fish name="Лещ" habitat="Преимущественно реки с небольшим течением" />
+            </fishes>
+        </form>
+    </forms>
+</class>
